@@ -1,0 +1,9 @@
+C:\Users\Bootcamp\Source\Repos\MyFirstProject\ProgramUI\EFModelLibrary\bin\Debug\EFModelLibrary.dll.config
+C:\Users\Bootcamp\Source\Repos\MyFirstProject\ProgramUI\EFModelLibrary\bin\Debug\EFModelLibrary.dll
+C:\Users\Bootcamp\Source\Repos\MyFirstProject\ProgramUI\EFModelLibrary\bin\Debug\EFModelLibrary.pdb
+C:\Users\Bootcamp\Source\Repos\MyFirstProject\ProgramUI\EFModelLibrary\bin\Debug\EntityFramework.dll
+C:\Users\Bootcamp\Source\Repos\MyFirstProject\ProgramUI\EFModelLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bootcamp\Source\Repos\MyFirstProject\ProgramUI\EFModelLibrary\bin\Debug\EntityFramework.xml
+C:\Users\Bootcamp\Source\Repos\MyFirstProject\ProgramUI\EFModelLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bootcamp\Source\Repos\MyFirstProject\ProgramUI\EFModelLibrary\obj\Debug\EFModelLibrary.dll
+C:\Users\Bootcamp\Source\Repos\MyFirstProject\ProgramUI\EFModelLibrary\obj\Debug\EFModelLibrary.pdb

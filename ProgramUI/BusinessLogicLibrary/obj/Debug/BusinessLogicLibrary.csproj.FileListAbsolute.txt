@@ -1,0 +1,12 @@
+C:\Users\Bootcamp\Source\Repos\MyFirstProject\ProgramUI\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.csprojResolveAssemblyReference.cache
+C:\Users\Bootcamp\Source\Repos\MyFirstProject\ProgramUI\BusinessLogicLibrary\bin\Debug\BusinessLogicLibrary.dll.config
+C:\Users\Bootcamp\Source\Repos\MyFirstProject\ProgramUI\BusinessLogicLibrary\bin\Debug\BusinessLogicLibrary.dll
+C:\Users\Bootcamp\Source\Repos\MyFirstProject\ProgramUI\BusinessLogicLibrary\bin\Debug\BusinessLogicLibrary.pdb
+C:\Users\Bootcamp\Source\Repos\MyFirstProject\ProgramUI\BusinessLogicLibrary\bin\Debug\EFModelLibrary.dll
+C:\Users\Bootcamp\Source\Repos\MyFirstProject\ProgramUI\BusinessLogicLibrary\bin\Debug\EntityFramework.dll
+C:\Users\Bootcamp\Source\Repos\MyFirstProject\ProgramUI\BusinessLogicLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bootcamp\Source\Repos\MyFirstProject\ProgramUI\BusinessLogicLibrary\bin\Debug\EFModelLibrary.pdb
+C:\Users\Bootcamp\Source\Repos\MyFirstProject\ProgramUI\BusinessLogicLibrary\bin\Debug\EntityFramework.xml
+C:\Users\Bootcamp\Source\Repos\MyFirstProject\ProgramUI\BusinessLogicLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bootcamp\Source\Repos\MyFirstProject\ProgramUI\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.dll
+C:\Users\Bootcamp\Source\Repos\MyFirstProject\ProgramUI\BusinessLogicLibrary\obj\Debug\BusinessLogicLibrary.pdb

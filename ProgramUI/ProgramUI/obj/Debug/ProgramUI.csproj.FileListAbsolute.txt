@@ -1,0 +1,14 @@
+C:\Users\Bootcamp\Source\Repos\MyFirstProject\ProgramUI\ProgramUI\obj\Debug\ProgramUI.csprojResolveAssemblyReference.cache
+C:\Users\Bootcamp\Source\Repos\MyFirstProject\ProgramUI\ProgramUI\bin\Debug\ProgramUI.exe.config
+C:\Users\Bootcamp\Source\Repos\MyFirstProject\ProgramUI\ProgramUI\bin\Debug\ProgramUI.exe
+C:\Users\Bootcamp\Source\Repos\MyFirstProject\ProgramUI\ProgramUI\bin\Debug\ProgramUI.pdb
+C:\Users\Bootcamp\Source\Repos\MyFirstProject\ProgramUI\ProgramUI\bin\Debug\BusinessLogicLibrary.dll
+C:\Users\Bootcamp\Source\Repos\MyFirstProject\ProgramUI\ProgramUI\bin\Debug\EFModelLibrary.dll
+C:\Users\Bootcamp\Source\Repos\MyFirstProject\ProgramUI\ProgramUI\bin\Debug\EntityFramework.dll
+C:\Users\Bootcamp\Source\Repos\MyFirstProject\ProgramUI\ProgramUI\bin\Debug\BusinessLogicLibrary.pdb
+C:\Users\Bootcamp\Source\Repos\MyFirstProject\ProgramUI\ProgramUI\bin\Debug\EFModelLibrary.pdb
+C:\Users\Bootcamp\Source\Repos\MyFirstProject\ProgramUI\ProgramUI\bin\Debug\EntityFramework.xml
+C:\Users\Bootcamp\Source\Repos\MyFirstProject\ProgramUI\ProgramUI\obj\Debug\ProgramUI.exe
+C:\Users\Bootcamp\Source\Repos\MyFirstProject\ProgramUI\ProgramUI\obj\Debug\ProgramUI.pdb
+C:\Users\Bootcamp\Source\Repos\MyFirstProject\ProgramUI\ProgramUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bootcamp\Source\Repos\MyFirstProject\ProgramUI\ProgramUI\bin\Debug\EntityFramework.SqlServer.xml
